@@ -1,4 +1,4 @@
-# Learning Object C++ - Inheritance in member functions
+# Learning Object C++ - Class Inheritance
 > Training course - Pasja Informatyki, Object C++ course, episode 5 ( [Link](https://www.youtube.com/watch?v=ZesZXlBcROA) )
 
 ## General info
